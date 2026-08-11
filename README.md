@@ -1,3 +1,5 @@
+
+
 # Binaural 8D Audio Generator
 
 This program transforms music into an immersive 8D audio experience with spatial movement and realistic positioning effects.
@@ -27,7 +29,7 @@ Arguments:
   <INPUT_FILE>  Input audio file path
 
 Options:
-  -o, --output <OUTPUT_FILE>  Output file path (WAV, FLAC, OGG, MP3). If not specified, plays audio directly
+  -o, --output <OUTPUT_FILE>  Output file path (WAV, FLAC, MP3). If not specified, plays audio directly
   -h, --help                  Print help
   -V, --version               Print version
 
